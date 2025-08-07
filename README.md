@@ -22,4 +22,4 @@ This project is about building a machine learning model that classifies emails a
 - Deployed using Gradio for live prediction
 
 # Video Demo:
-The working Gradio model demo can be viewed ()
+The working Gradio model demo can be viewed (https://drive.google.com/file/d/1HuhxPtGbBOlGEyJDpEnktglsstGbw3RH/view?usp=drive_link)
